@@ -12,6 +12,7 @@
 		440B10A61F4FC5DB00E8D5B7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 440B10A41F4FC5DB00E8D5B7 /* Main.storyboard */; };
 		440B10A81F4FC5DB00E8D5B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 440B10A71F4FC5DB00E8D5B7 /* Assets.xcassets */; };
 		440B10AB1F4FC5DB00E8D5B7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 440B10A91F4FC5DB00E8D5B7 /* LaunchScreen.storyboard */; };
+		440B10B31F4FD5D400E8D5B7 /* HelloWorldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 440B10B21F4FD5D400E8D5B7 /* HelloWorldViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		440B10A71F4FC5DB00E8D5B7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		440B10AA1F4FC5DB00E8D5B7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		440B10AC1F4FC5DB00E8D5B7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		440B10B21F4FD5D400E8D5B7 /* HelloWorldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelloWorldViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				440B10A71F4FC5DB00E8D5B7 /* Assets.xcassets */,
 				440B10A91F4FC5DB00E8D5B7 /* LaunchScreen.storyboard */,
 				440B10AC1F4FC5DB00E8D5B7 /* Info.plist */,
+				440B10B21F4FD5D400E8D5B7 /* HelloWorldViewController.swift */,
 			);
 			path = "Hello World";
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			files = (
 				440B10A31F4FC5DB00E8D5B7 /* ViewController.swift in Sources */,
 				440B10A11F4FC5DB00E8D5B7 /* AppDelegate.swift in Sources */,
+				440B10B31F4FD5D400E8D5B7 /* HelloWorldViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
